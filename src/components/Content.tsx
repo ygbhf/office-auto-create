@@ -7,7 +7,7 @@ import Notice from './Notice'
 
 export default function Content() {
     const contentBg = {
-        background: 'url(https://i.loli.net/2020/01/25/KEScJXCBfAzaIjW.png) no-repeat',
+        background: 'url(https://use.sevencdn.com/2020/01/25/KEScJXCBfAzaIjW.png) no-repeat',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
@@ -36,7 +36,7 @@ export default function Content() {
                     <Notice/>
 
                     <span style={lineOne}>欢迎使用 Office</span><br/>
-                    <span style={lineTwo}>你可在这里创作、沟通、协作并完成重要工作。</span>
+                    <span style={lineTwo}>你可在这里自助开通 A1 子号。</span>
                     <br/>
                     <br/>
 

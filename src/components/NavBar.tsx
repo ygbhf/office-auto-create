@@ -17,7 +17,7 @@ export default function NavBar() {
                 <div className="display-flex align-center justify-between">
                     <Space align="center">
                         <img style={{height: 28}}
-                             src="https://i.loli.net/2020/04/21/ST9ru5mwVqUXnKO.png"
+                             src="https://use.sevencdn.com/2020/04/21/ST9ru5mwVqUXnKO.png"
                              alt=""
                         />
                         <div style={officeFont}>|</div>
@@ -29,7 +29,7 @@ export default function NavBar() {
                             icon={<QuestionOutlined/>}
                             onClick={() =>
                                 window.open(
-                                    'https://github.com/zayabighead/Office-User-Auto-Create'
+                                    'https://7ed.net'
                                 )}
                     />
                 </div>
